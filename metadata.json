@@ -1,0 +1,6 @@
+{
+  "name": "RSI SuperTrend",
+  "description": "NSE & MCX live trading terminal with RSI Supertrend buy/sell alerts, Intraday OI PCR, Max Pain, India VIX, Gift Nifty, and live Options Chain insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
